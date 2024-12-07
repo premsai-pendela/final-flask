@@ -17,7 +17,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 config = {
     'host': 'ccproject.mysql.database.azure.com',
-    'user': 'premsai',
+    'user': 'group18',
     'password': 'Password@123',
     'database': 'ccproject',
     'port': 3306,
